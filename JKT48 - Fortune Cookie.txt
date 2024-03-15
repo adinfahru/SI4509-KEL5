@@ -4,7 +4,19 @@ Penampilan itu menguntungkan
 Selalu hanya gadis cantik saja
 Yang 'kan dipilih menjadi nomor satu
 <<<<<<< HEAD
+<<<<<<< HEAD
 Apa yang 'kan terjadi
+=======
+<<<<<<< HEAD
+Hey, hey, hey
+=======
+<<<<<<< HEAD
+Cangkang itu, ayo coba pecahkan saja
+=======
+Please, please, please, oh, baby!
+>>>>>>> 198fe7c6ad8d81abf105956fe410c2e4bbb37ebf
+>>>>>>> 6dfea8bb50227a3627077c91a5906d7cc9f25595
+>>>>>>> 5b79acbe006fe8fa8ae36f1cbad15e74c728c218
 =======
 
 <<<<<<< HEAD
