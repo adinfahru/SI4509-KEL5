@@ -3,4 +3,13 @@ Yang punya kepribadian baik
 Penampilan itu menguntungkan
 Selalu hanya gadis cantik saja
 Yang 'kan dipilih menjadi nomor satu
+<<<<<<< HEAD
 Apa yang 'kan terjadi
+=======
+
+<<<<<<< HEAD
+Yang mencinta, Fortune Cookie 
+=======
+Lihatlah diriku
+>>>>>>> 93004310f2ab983255ff2d7cadd2ca9108d49012
+>>>>>>> 7dc704db32502f408a1372ed502482e4f734632b
