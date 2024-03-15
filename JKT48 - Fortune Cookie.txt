@@ -4,4 +4,8 @@ Penampilan itu menguntungkan
 Selalu hanya gadis cantik saja
 Yang 'kan dipilih menjadi nomor satu
 
+<<<<<<< HEAD
 Yang mencinta, Fortune Cookie 
+=======
+Lihatlah diriku
+>>>>>>> 93004310f2ab983255ff2d7cadd2ca9108d49012
